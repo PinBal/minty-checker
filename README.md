@@ -1,2 +1,3 @@
 # minty-checker
-Check minty codes
+
+This python2 program checks Fortnite Minty Pickaxe codes 
